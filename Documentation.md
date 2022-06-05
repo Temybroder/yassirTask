@@ -1,7 +1,7 @@
 #Run Commands
 
 # To run test: Run 'npm test'
-# To run server: Run 'node index.js'
+# To run server and Cron-job: Run 'node index.js'
 
 # API-Related files
     All API related files are grouped within
